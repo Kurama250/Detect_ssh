@@ -1,0 +1,4 @@
+{
+  "attemptsThreshold": 5,
+  "discordWebhookUrl": "YOUR_WEBHOOK"
+}
