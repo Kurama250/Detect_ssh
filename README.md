@@ -19,15 +19,14 @@ bash package.sh
 
 ```shell script
 apt update && apt upgrade -y
-apt install npm node.js zip
+apt install npm node.js git
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs
 ```
 
 ```shell script
-wget https://github.com/Kurama250/Detect_ssh/archive/refs/heads/main.zip
-unzip main.zip
-cd Detect_ssh-main/
+git clone https://github.com/Kurama250/Detect_ssh.git
+cd Detect_ssh/
 npm install fs child_process axios tail
 npm install pm2 -g
 ```
