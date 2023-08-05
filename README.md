@@ -7,19 +7,16 @@
 
 <h5>A) Auto installer</h5>
 
-- First, download and upload the codes to your server !
-
-- After :
+- Run command :
 
 ```shell script
-chmod +x package.sh
-bash package.sh
+bash <(curl -s https://github.com/Kurama250/Detect_ssh/blob/main/setup.sh)
 ```
 <h5>B) Manual installer</h5>
 
 ```shell script
 apt update && apt upgrade -y
-apt install npm node.js git
+apt install npm node.js git -y
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs
 ```
