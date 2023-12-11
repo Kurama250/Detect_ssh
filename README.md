@@ -1,6 +1,13 @@
 <h1 align="center">Brutforce (ssh) attack detection code for Discord</h1>
 <em><h5 align="center">(Programming Language - Node.js | Shell)</h5></em>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kurama250/Detect_ssh">
+  <img src="https://img.shields.io/github/license/Kurama250/Detect_ssh">
+  <img src="https://img.shields.io/github/repo-size/Kurama250/Detect_ssh">
+  <img src="https://img.shields.io/badge/stability-stable-green">
+</p>
+
 # Tutorial to install the script ! For LINUX (VPS or Dedicated Server)
 
 ## 1 - on Terminal
