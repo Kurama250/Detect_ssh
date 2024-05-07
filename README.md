@@ -72,4 +72,5 @@ pm2 start main.js -n Detect-ssh
 
 ![alt text](https://github.com/Kurama250/Detect_ssh/blob/main/ssh.png)
 
+<h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
 <h1 align="center">Then it's the end you have started the script have fun !</h1>
